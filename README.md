@@ -2,4 +2,4 @@
 My first repository
 
 Hello world!
-This are changes did by me :v
+This are changes made by me :v
